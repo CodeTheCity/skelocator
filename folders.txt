@@ -1,0 +1,16 @@
+/CA405 Code the city/CA94 St Nicholas East Kirk/cd635 E78 E84/sk plans central area finished and ready for Jan/
+CDR (corel Draw?) files with plans and skeleton tracings placed on them.
+Could be source for x,y for each skeleton?
+
+/CA405 Code the city/CA94 St Nicholas East Kirk/scanned plans/
+Scans of paper plans.
+
+/CA405 Code the city/CA94 St Nicholas East Kirk/cd636  E78 E84/SK Traced and scanned/
+CPT and TIFFs of traces from photos of each skeleton
+
+Levels_Table_export.csv
+Details of what was found.
+"Reduced Value" column is height above sea level for the thing.
+Possibly incomplete: heighest SK# is 641, but have 1004 in other lists, and number of rows seems small even for 641 skeletons
+
+/CA405 Code the city/CA94 St Nicholas East Kirk/cd635 E78 E84/sk plans for Paul/restored/plan of skeletons.dxf
