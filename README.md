@@ -19,3 +19,5 @@ to be done
 ## Skeleton Traces
 
 http://argh.technology/foo/skelator/cpt-converted/
+
+Skeleton Plan: http://argh.technology/foo/skelator/plan%20of%20skeletons.dxf
