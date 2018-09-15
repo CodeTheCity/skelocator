@@ -13,4 +13,4 @@ Details of what was found.
 "Reduced Value" column is height above sea level for the thing.
 Possibly incomplete: heighest SK# is 641, but have 1004 in other lists, and number of rows seems small even for 641 skeletons
 
-
+/CA405 Code the city/CA94 St Nicholas East Kirk/cd635 E78 E84/sk plans for Paul/restored/plan of skeletons.dxf
