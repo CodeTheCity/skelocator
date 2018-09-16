@@ -14,6 +14,8 @@ This addressed two specific challenges
 The former was a 2006 database of transcribed data from the levels notebooks created at the dig and which recorded the various levels of the excavation. 
 
 ## Progress
+The appropriate folders from the suplied data were identified and are documented in [folders.txt](folders.txt).
+
 The [Levels database](Levels.mdb) was processed and two CSV files produced: [Tables Export](Levels_Table_export.csv) and [Queries Export](Levels_query_export.csv)
 
 The scanned plans were in a mixture of TIFs and JPGs. 
