@@ -21,3 +21,5 @@ to be done
 http://argh.technology/foo/skelator/cpt-converted/
 
 Skeleton Plan: http://argh.technology/foo/skelator/plan%20of%20skeletons.dxf
+
+Scanned plans: http://argh.technology/foo/skelator/scanned%20plans/
