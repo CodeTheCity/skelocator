@@ -1,0 +1,176 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 0,
+                "x": 10902.40225998792,
+                "y": 1505.450213319596
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 1,
+                "x": 10938.289035037255,
+                "y": 2034.7801452972847
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 2,
+                "x": 10945.222847029576,
+                "y": 2647.8959599890613
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 3,
+                "x": 10942.921228696112,
+                "y": 3270.532336056403
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 4,
+                "x": 10918.742195861454,
+                "y": 3887.733963677942
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 5,
+                "x": 10925.105099238996,
+                "y": 4450.214622252623
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 6,
+                "x": 10916.197034510438,
+                "y": 5058.508185145603
+            },
+            {
+                "class": "reference",
+                "position": "east",
+    				"number": 7,
+                "x": 10947.899034110136,
+                "y": 5616.552057204638
+            },
+			{
+                "class": "skeleton",
+    				"subclass": "sk63",
+    				"type": "head",
+    				"number": 3,
+                "x": 2009.1386811268194,
+                "y": 2067.7385593263516
+            },
+            {
+                "class": "skeleton",
+    				"subclass": "sk63",
+    				"type": "ankle",
+    				"number": 4,
+                "x": 2854.8702844320783,
+                "y": 2066.526374259775
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk98",
+				"type": "head",
+				"number": "NA",
+                "x": 5471.782531913517,
+                "y": 1918.43021399496
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk98",
+				"type": "shoulder",
+				"number": "NA",
+                "x": 5917.186694116785,
+                "y": 2081.086341488986
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk98",
+				"type": "toes",
+				"number": 24,
+                "x": 6342.068821542768,
+                "y": 1981.5164690510542
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk84",
+				"type": "torso",
+				"number": 42,
+                "x": 4414.122196220227,
+                "y": 3082.076330452493
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk84",
+				"type": "head",
+				"number": 41,
+                "x": 4167.044010642934,
+                "y": 3069.274351925172
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk120",
+				"type": "feet",
+				"number": 46,
+                "x": 7908.120496904475,
+                "y": 1975.1546382700838
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk120",
+				"type": "torso",
+				"number": 45,
+                "x": 7683.062182180266,
+                "y": 1959.0790443612116
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk120",
+				"type":"head",
+				"number": 44,
+                "x": 7352.976653918093,
+                "y": 1978.3697570518582
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk124",
+				"type": "feet",
+				"number": 81,
+                "x": 8548.961111976349,
+                "y": 3474.2451835984343
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk124",
+				"type": "pelvis",
+				"number": 80,
+                "x": 8395.328857930492,
+                "y": 3501.1982106240234
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk128",
+				"type": "east end",
+				"number": 91,
+                "x": 8517.404507934796,
+                "y": 2594.1372109210656
+            },
+            {
+                "class": "skeleton",
+				"subclass": "sk128",
+				"type": "head",
+				"number": 90,
+                "x": 8260.49903553769,
+                "y": 2626.820451492295
+            }
+        ],
+        "class": "image",
+        "filename": "scanned plans (jpg)\\PLAN031.jpg"
+    }
+]
